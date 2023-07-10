@@ -1,1 +1,2 @@
 # Text-to-Speech
+This Python project uses a range of new libraries to convert an existing article into a playable mp3 file. You’ll need to install nltk (natural language toolkit), newspaper3k, and gtts (see pip install instructions), You’ll see that the program is simple, as we simply pass in a URL for an article to convert, then let the function we’ve defined handle the text-to-speech conversion with our newly installed modules.
